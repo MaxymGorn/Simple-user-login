@@ -1,3 +1,3 @@
 # Simple-user-login
 Example login in Android Studio, using MVVM
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/MaxymGorn/Simple-user-login/blob/master/example.gif?raw=true)
